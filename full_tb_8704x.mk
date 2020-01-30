@@ -25,8 +25,8 @@ PRODUCT_COPY_FILES += \
 bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := full_tb_8704x
-PRODUCT_DEVICE := tb_8704x
+PRODUCT_NAME := full_tb_8704f
+PRODUCT_DEVICE := tb_8704f
 PRODUCT_BRAND := Lenovo
 PRODUCT_MANUFACTURER := Lenovo
 PRODUCT_MODEL := Tab 4 8 Plus
