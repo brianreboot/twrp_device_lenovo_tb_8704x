@@ -17,6 +17,6 @@
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-$(call inherit-product, device/lenovo/tb_8704x/full_tb_8704x.mk)
+$(call inherit-product, device/lenovo/tb_8704f/full_tb_8704f.mk)
 
-PRODUCT_NAME := omni_tb_8704x
+PRODUCT_NAME := omni_tb_8704f
