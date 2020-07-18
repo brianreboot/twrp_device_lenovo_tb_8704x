@@ -1,2 +1,2 @@
-add_lunch_combo omni_8704X-userdebug
-add_lunch_combo omni_8704X-eng
+add_lunch_combo omni_8704x-userdebug
+add_lunch_combo omni_8704x-eng
