@@ -1,3 +1,4 @@
-ro.hardware.keystore=msm8953
-persist.sys.usb.config=adb,mtp
-ro.display.series=Tab 4 10 Plus
+ro.lenovo.project=609x
+ro.lenovo.series=Lenovo TAB4 10 Plus
+ro.hardware.version=Lenovo Tablet TB-X704F
+ro.software.version=TB-X704F_RF01_20181015
