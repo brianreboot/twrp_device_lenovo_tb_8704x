@@ -26,7 +26,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/lenovo/TB8704X/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_TB8704X
+PRODUCT_NAME := omni_8704X
 PRODUCT_DEVICE := TB-8704X
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo TB-8704X
